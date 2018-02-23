@@ -1,0 +1,13 @@
+installed Eclipse
+Add Project
+Their Was an error in java file i.e. The Import javax.servlet cannot be resolved
+I import that file and their was all the error in java file was resolved by it.
+Now the error was in database to connect that i.e. 
+Some ojdbc.jar,jsp-api.jar, sevlet-api.jar file was missing from it
+And the last error was The project cannot be built untill build path errors are resolved
+Their are some warnings also be their because some HTML tags are not at the right position 
+I fixed some of them 
+
+Mysql Database was downloaded
+Installed MYSQL database 
+Mysql database is Setup completly
